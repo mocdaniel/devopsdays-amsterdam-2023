@@ -69,7 +69,7 @@ layout: two-cols
 
 <br />
 
-* Doing DevOps, Kubernetes, etc. for ~18 months
+* Doing Cloud-Native, Kubernetes, etc. for ~18 months
 
 <br />
 
@@ -176,3 +176,120 @@ layout: default
 # Everything, everywhere, all at once
 
 <img class="h-100 m-x-auto" src="/eeaao.png" alt="Everything, everywhere, all at once poster with many CNCF projects shopped into it">
+
+---
+transition: fade-out
+layout: default
+---
+
+# It didn't work out...
+
+<img class="m-x-auto h-100" src="/didntworkout.png" alt="burnt out human sitting in front of their notebook" />
+
+---
+transition: fade-out
+layout: quote
+---
+
+# But what will work out?
+
+\- me, 2022
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Split it up
+
+What technology do I need to look at *right now*? What does it have to *do*?
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Start with the boring stuff
+
+*Boring* often means *adopted*. Adopted means *supported*. Other parts of the puzzle will fall into place.
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Use the right tool for the right job
+
+"Do I use a tool for one of its *core functionalities* or do I use it for something it can *also* do?"
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Persist your findings
+
+Take notes, discuss with colleagues, write blog posts, give talks. This will help you to *reflect* and *remember*.
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Why all this? SOS won't just go away?!
+
+---
+transition: fade-out
+layout: default
+---
+
+# Perks of SOS
+
+* You get to know *many* technologies
+
+* You can *reflect* on your choices and *learn* from them
+
+* You stay up-to-date while focusing on tools you need *right now*
+
+
+<style>
+  h1 {
+    @apply text-size-10
+  }
+  ul {
+    @apply p-t-10;
+  }
+  li {
+    @apply text-size-5;
+    @apply font-bold;
+    @apply p-b-4;
+  }
+  p {
+    @apply line-height-10;
+  }
+
+  img {
+    @apply p-t-18;
+  }
+</style>
+
+---
+transition: fade-out
+layout: quote
+---
+
+# Don't try to learn everything about something. Instead, try to learn something about everything.
+
+\- Kunal Kushwaha, Civo Navigate Tampa 2023
+
+---
+layout: image-right
+image: /thankyou.jpg
+class: thankyoucontent
+---
+
+# Thank you!
+
+<br />
+
+Slides available at [https://slides.dbodky.me/devopsdays-amsterdam-2023](https://slides.dbodky.me/devopsdays-amsterdam-2023)
