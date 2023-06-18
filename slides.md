@@ -65,15 +65,15 @@ layout: two-cols
 
 <br />
 
+* Daniel Bodky from Germany
+
+<br />
+
 * Consultant, trainer and speaker at NETWAYS since 2021
 
 <br />
 
-* Doing Cloud-Native, Kubernetes, etc. for ~18 months
-
-<br />
-
-* Intrigued by shiny new things
+* Working with Cloud-Native and DevOps technologies
 
 ::right::
 
@@ -90,18 +90,9 @@ transition: fade-out
 layout: quote
 ---
 
-# Shiny object syndrome is the situation where people focus undue attention on an idea that is new and trendy, yet drop this as soon as something new takes its place [...] regardless of how valuable or helpful it may ultimately be.
+# Shiny object syndrome is the situation where people focus undue attention on an idea that is new and trendy, yet drop this as soon as something new takes its place [...].
 
 \- from Wikipedia
-
----
-transition: fade-out
-layout: default
----
-
-# \#ThrowbackThursday: KubeCon EU 2022
-
-<img class="h-110 m-x-auto" src="/thisisfine.jpg" alt="thisisfine meme" />
 
 ---
 transition: fade-out
@@ -111,6 +102,15 @@ layout: default
 # Learning new technology
 
 <img class="h-100 m-x-auto" src="/imgoingonanadventure.jpg" alt="The Hobbit - I'm going on an adventure meme" />
+
+---
+transition: fade-out
+layout: default
+---
+
+# \#ThrowbackThursday: KubeCon EU 2022
+
+<img class="h-110 m-x-auto" src="/thisisfine.jpg" alt="thisisfine meme" />
 
 ---
 transition: fade-out
