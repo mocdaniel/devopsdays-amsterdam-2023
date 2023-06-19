@@ -46,42 +46,6 @@ layout: two-cols
 <img src="/dbodky.jpg" />
 
 ---
-layout: two-cols
-transition: fade-out
----
-
-# What's inside?
-
-<br />
-
-<br />
-
-<br />
-
-* a definition of SOS
-
-<br />
-
-* my personal story of SOS (so far) and key takeaways
-
-<br />
-
-* some memes (it's an ignite, right?!)
-
-::right::
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<img src="/treasure.jpg" />
-<div class="text-size-1">Photo by <a href="https://unsplash.com/@ashin_k_suresh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ashin K Suresh</a> on <a href="https://unsplash.com/photos/mkxTOAxqTTo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
-
----
 transition: fade-out
 layout: quote
 ---
@@ -271,6 +235,7 @@ layout: default
 
 * Staying up-to-date with the latest developments
 
+* Being able to make informed decisions
 
 <style>
   h1 {
@@ -301,6 +266,13 @@ layout: quote
 # Don't try to learn everything about something. Instead, try to learn something about everything.
 
 \- Kunal Kushwaha
+
+---
+transition: fade-out
+layout: quote
+---
+
+# It's not about getting rid of our curiosity (nor SOS), it's about leveraging it in a way that's sustainable in our daily lives.
 
 ---
 layout: image-right
