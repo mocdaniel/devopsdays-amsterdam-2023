@@ -12,7 +12,38 @@ monaco: true
 src: ./slides/cover.md
 ---
 
+---
+transition: fade-out
+layout: two-cols
+---
 
+# About me
+
+<br />
+
+<br />
+
+<br />
+
+* Daniel Bodky from Germany
+
+<br />
+
+* Consultant, trainer and speaker at NETWAYS
+
+<br />
+
+* Working with cloud-native and DevOps-related technologies
+
+::right::
+
+<br />
+
+<br />
+
+<br />
+
+<img src="/dbodky.jpg" />
 
 ---
 layout: two-cols
@@ -49,41 +80,6 @@ transition: fade-out
 
 <img src="/treasure.jpg" />
 <div class="text-size-1">Photo by <a href="https://unsplash.com/@ashin_k_suresh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ashin K Suresh</a> on <a href="https://unsplash.com/photos/mkxTOAxqTTo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
-  
-
-
----
-transition: fade-out
-layout: two-cols
----
-
-# About me
-
-<br />
-
-<br />
-
-<br />
-
-* Daniel Bodky from Germany
-
-<br />
-
-* Consultant, trainer and speaker at NETWAYS
-
-<br />
-
-* Working with cloud-native and DevOps-related technologies
-
-::right::
-
-<br />
-
-<br />
-
-<br />
-
-<img src="/dbodky.jpg" />
 
 ---
 transition: fade-out
